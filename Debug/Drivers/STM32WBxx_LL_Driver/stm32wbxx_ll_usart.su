@@ -1,0 +1,12 @@
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usart.h:660:26:LL_USART_IsEnabled	16	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usart.h:1226:22:LL_USART_SetPrescaler	16	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usart.h:1306:22:LL_USART_SetStopBitsLength	16	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usart.h:1731:22:LL_USART_SetHWFlowCtrl	16	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usart.h:1882:22:LL_USART_SetBaudRate	32	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:1354:22:LL_APB2_GRP1_ForceReset	16	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:1380:22:LL_APB2_GRP1_ReleaseReset	16	static
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usart.c:139:13:LL_USART_DeInit	24	static
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usart.c:176:13:LL_USART_Init	32	static
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usart.c:272:6:LL_USART_StructInit	16	static
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usart.c:299:13:LL_USART_ClockInit	24	static
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usart.c:346:6:LL_USART_ClockStructInit	16	static

@@ -1,0 +1,11 @@
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:281:22:LL_GPIO_SetPinMode	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:350:22:LL_GPIO_SetPinOutputType	1
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:421:22:LL_GPIO_SetPinSpeed	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:492:22:LL_GPIO_SetPinPull	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:564:22:LL_GPIO_SetAFPin_0_7	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:641:22:LL_GPIO_SetAFPin_8_15	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:625:22:LL_AHB2_GRP1_ForceReset	1
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:653:22:LL_AHB2_GRP1_ReleaseReset	1
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_gpio.c:108:13:LL_GPIO_DeInit	6
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_gpio.c:169:13:LL_GPIO_Init	9
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_gpio.c:242:6:LL_GPIO_StructInit	1

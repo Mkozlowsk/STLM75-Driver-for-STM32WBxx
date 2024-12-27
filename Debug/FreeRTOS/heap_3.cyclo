@@ -1,0 +1,4 @@
+../Inc/FreeRTOSConfig.h:184:12:inHandlerMode	1
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/FreeRTOS/FreeRTOS/Source/portable/MemMang/heap_3.c:59:8:pvPortMalloc	2
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/FreeRTOS/FreeRTOS/Source/portable/MemMang/heap_3.c:83:6:vPortFree	2
+D:/Studia/UIOM/uiom_2024l_jml_mk_projekty/common/FreeRTOS/FreeRTOS/Source/portable/MemMang/heap_3.c:102:6:vPortHeapResetState	1

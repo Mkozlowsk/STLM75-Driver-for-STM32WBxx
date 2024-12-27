@@ -1,0 +1,12 @@
+../Inc/FreeRTOSConfig.h:184:12:inHandlerMode	1
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:281:22:LL_GPIO_SetPinMode	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:421:22:LL_GPIO_SetPinSpeed	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:492:22:LL_GPIO_SetPinPull	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:564:22:LL_GPIO_SetAFPin_0_7	3
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:919:22:LL_GPIO_ResetOutputPin	1
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:948:22:LL_GPIO_TogglePin	1
+../Src/MainDev.c:30:6:MainDev_Init	1
+../Src/MainDev.c:43:6:MainDev_DeInit	1
+../Src/MainDev.c:74:13:initGPIO	1
+../Src/MainDev.c:91:6:MainDev_MainLoopProc	1

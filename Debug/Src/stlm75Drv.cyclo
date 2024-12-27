@@ -1,0 +1,7 @@
+../Inc/FreeRTOSConfig.h:184:12:inHandlerMode	1
+../Src/stlm75Drv.c:7:6:I2C_sendByte	1
+../Src/stlm75Drv.c:13:6:I2C_send2Bytes	1
+../Src/stlm75Drv.c:21:6:I2C_readByte	1
+../Src/stlm75Drv.c:26:6:I2C_read2Bytes	1
+../Src/stlm75Drv.c:32:6:STLM75_Init	1
+../Src/stlm75Drv.c:46:7:STLM75_ReadTemp	1

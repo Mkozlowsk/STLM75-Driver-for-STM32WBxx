@@ -1,0 +1,7 @@
+../Inc/FreeRTOSConfig.h:184:12:inHandlerMode	16	static,ignoring_inline_asm
+../Src/stlm75Drv.c:7:6:I2C_sendByte	40	static
+../Src/stlm75Drv.c:13:6:I2C_send2Bytes	40	static
+../Src/stlm75Drv.c:21:6:I2C_readByte	40	static
+../Src/stlm75Drv.c:26:6:I2C_read2Bytes	40	static
+../Src/stlm75Drv.c:32:6:STLM75_Init	24	static
+../Src/stlm75Drv.c:46:7:STLM75_ReadTemp	24	static

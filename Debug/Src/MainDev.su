@@ -1,0 +1,12 @@
+../Inc/FreeRTOSConfig.h:184:12:inHandlerMode	16	static,ignoring_inline_asm
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	24	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:281:22:LL_GPIO_SetPinMode	48	static,ignoring_inline_asm
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:421:22:LL_GPIO_SetPinSpeed	48	static,ignoring_inline_asm
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:492:22:LL_GPIO_SetPinPull	48	static,ignoring_inline_asm
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:564:22:LL_GPIO_SetAFPin_0_7	48	static,ignoring_inline_asm
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:919:22:LL_GPIO_ResetOutputPin	16	static
+../../common/STM32CubeWB/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_gpio.h:948:22:LL_GPIO_TogglePin	24	static
+../Src/MainDev.c:30:6:MainDev_Init	16	static
+../Src/MainDev.c:43:6:MainDev_DeInit	16	static
+../Src/MainDev.c:74:13:initGPIO	8	static
+../Src/MainDev.c:91:6:MainDev_MainLoopProc	16	static
